@@ -14,5 +14,7 @@ Things learnt;
   
 To do;
   1.Add more items to the menu;
-  2.Style the homepage more.-Consider bootstrap
+  2.Style the homepage more.-Consider bootstrap for different screen sizes
   3.Maybe add more items on the nav bar e.g reservations, orders. 
+  
+Live demo >> http://ealpha.github.io/project-hotel1/
