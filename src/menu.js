@@ -5,11 +5,6 @@ import {homeDiv} from './home'
 
 const menuPage=()=>{
 
-	//header section
-	/*const header=document.createElement('section');
-	header.setAttribute('class','Header');
-	homeDiv.appendChild(header)
-	mainContainer.appendChild(homeDiv);*/
 
 	// menu section
 		//const menu=()=> {
